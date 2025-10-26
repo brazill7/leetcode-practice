@@ -1,0 +1,18 @@
+"""
+
+"""
+
+# Code
+
+class Solution:
+
+
+# Test
+
+from _testfunc import testfunc
+
+s = Solution()
+
+
+testfunc(s.reverseVowels, ("I", ), "I")
+testfunc(s.reverseVowels, ("C", ), "C")
